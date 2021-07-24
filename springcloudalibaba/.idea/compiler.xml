@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="alibabasentinelzuul" />
+        <module name="buscommon" />
+        <module name="circuitpersondesign" />
+        <module name="comhikvisionwebflux" />
+        <module name="creditcardfrauddetectionsink" />
+        <module name="deliveryservice" />
+        <module name="elasticsearchtest" />
+        <module name="eurekaservice-provider" />
+        <module name="longpolling" />
+        <module name="netflixeureka" />
+        <module name="orderservice" />
+        <module name="scdfcommon" />
+        <module name="smsservice" />
+        <module name="springcloud-consumer" />
+        <module name="springcloud-nacos-provider" />
+        <module name="springcloud-sentinel-zuul" />
+        <module name="springcloudapi" />
+        <module name="springcloudbusnode1" />
+        <module name="springcloudbusnode2" />
+        <module name="springcloudbusnode3" />
+        <module name="springcloudcircuitbreaker" />
+        <module name="springcloudconfig" />
+        <module name="springcloudconfigclient" />
+        <module name="springclouddubboconsumer14" />
+        <module name="springclouddubboconsumer3" />
+        <module name="springclouddubboprovider14" />
+        <module name="springclouddubboprovider15" />
+        <module name="springcloudfunction" />
+        <module name="springcloudnacossingleregistryprovider11" />
+        <module name="springcloudnacossingleregistryprovider12" />
+        <module name="springcloudnacossingleregistryprovider13" />
+        <module name="springcloudnacossinglesubscribeconsumer" />
+        <module name="springcloudnetflixhystrix" />
+        <module name="springcloudpropertylocation" />
+        <module name="springcloudsingleregistryconsumer2" />
+        <module name="springcloudstream" />
+        <module name="springcloudstreamconsumererror" />
+        <module name="springcloudstreamcustombindingtargetfactory" />
+        <module name="springcloudstreammetrics" />
+        <module name="springcloudstreampollingconsumer" />
+        <module name="springcloudstreamproducererror" />
+        <module name="springcloudstreamproducerpartition" />
+        <module name="springcloudzuul" />
+        <module name="springintegration" />
+        <module name="springmessage" />
+        <module name="streamprocessingcreditcardsource" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="eureka-service-provider" target="1.8" />
+      <module name="springcloud-nacos-eureka-doubleregistry-provider" target="1.8" />
+      <module name="springcloudconsumer" target="8" />
+      <module name="springcloudhystrix" target="1.8" />
+      <module name="springcloudnacossingleregistryprovider" target="1.8" />
+      <module name="springcloudsentinelzuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="alibabasentinelzuul" options="-parameters" />
+      <module name="buscommon" options="-parameters" />
+      <module name="circuitpersondesign" options="-parameters" />
+      <module name="comhikvisionwebflux" options="-parameters" />
+      <module name="creditcardfrauddetectionsink" options="-parameters" />
+      <module name="deliveryservice" options="-parameters" />
+      <module name="elasticsearchtest" options="-parameters" />
+      <module name="eureka-service-provider" options="-parameters" />
+      <module name="eurekaservice-provider" options="-parameters" />
+      <module name="longpolling" options="-parameters" />
+      <module name="netflixeureka" options="-parameters" />
+      <module name="orderservice" options="-parameters" />
+      <module name="scdfcommon" options="-parameters" />
+      <module name="smsservice" options="-parameters" />
+      <module name="springcloud-consumer" options="-parameters" />
+      <module name="springcloud-nacos-eureka-doubleregistry-provider" options="-parameters" />
+      <module name="springcloud-nacos-provider" options="-parameters" />
+      <module name="springcloud-sentinel-zuul" options="-parameters" />
+      <module name="springcloudapi" options="-parameters" />
+      <module name="springcloudbus" options="-parameters" />
+      <module name="springcloudbusnode1" options="-parameters" />
+      <module name="springcloudbusnode2" options="-parameters" />
+      <module name="springcloudbusnode3" options="-parameters" />
+      <module name="springcloudcircuitbreaker" options="-parameters" />
+      <module name="springcloudconfig" options="-parameters" />
+      <module name="springcloudconfigclient" options="-parameters" />
+      <module name="springcloudconsumer" options="-parameters" />
+      <module name="springclouddataflow" options="-parameters" />
+      <module name="springclouddubboconsumer14" options="-parameters" />
+      <module name="springclouddubboconsumer3" options="-parameters" />
+      <module name="springclouddubboprovider14" options="-parameters" />
+      <module name="springclouddubboprovider15" options="-parameters" />
+      <module name="springcloudfunction" options="-parameters" />
+      <module name="springcloudgateway" options="-parameters" />
+      <module name="springcloudhystrix" options="-parameters" />
+      <module name="springcloudnacossingleregistryprovider" options="-parameters" />
+      <module name="springcloudnacossingleregistryprovider11" options="-parameters" />
+      <module name="springcloudnacossingleregistryprovider12" options="-parameters" />
+      <module name="springcloudnacossingleregistryprovider13" options="-parameters" />
+      <module name="springcloudnacossinglesubscribeconsumer" options="-parameters" />
+      <module name="springcloudnetflixhystrix" options="-parameters" />
+      <module name="springcloudpropertylocation" options="-parameters" />
+      <module name="springcloudsentinelzuul" options="-parameters" />
+      <module name="springcloudsingleregistryconsumer2" options="-parameters" />
+      <module name="springcloudstream" options="-parameters" />
+      <module name="springcloudstreamconsumererror" options="-parameters" />
+      <module name="springcloudstreamcustombindingtargetfactory" options="-parameters" />
+      <module name="springcloudstreammetrics" options="-parameters" />
+      <module name="springcloudstreampollingconsumer" options="-parameters" />
+      <module name="springcloudstreamproducererror" options="-parameters" />
+      <module name="springcloudstreamproducerpartition" options="-parameters" />
+      <module name="springcloudzuul" options="-parameters" />
+      <module name="springintegration" options="-parameters" />
+      <module name="springmessage" options="-parameters" />
+      <module name="streamprocessingcreditcardsource" options="-parameters" />
+    </option>
+  </component>
+</project>

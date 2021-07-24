@@ -1,0 +1,5 @@
+com\hikvision\DeliveryApplication$SMSService.class
+com\hikvision\DeliveryApplication$FallbackInventoryService.class
+com\hikvision\DeliveryApplication$FallbackFactory.class
+com\hikvision\DeliveryApplication$DeliveryController.class
+com\hikvision\DeliveryApplication.class

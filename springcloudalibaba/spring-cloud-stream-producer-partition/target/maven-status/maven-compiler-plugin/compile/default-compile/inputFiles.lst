@@ -1,0 +1,4 @@
+D:\sourceCode\seata-io-seata-develop\springcloudalibaba\spring-cloud-stream-producer-partition\src\main\java\com\hikvision\selector\MyPartitionSelector.java
+D:\sourceCode\seata-io-seata-develop\springcloudalibaba\spring-cloud-stream-producer-partition\src\main\java\com\hikvision\strategy\MyPartitionKeyExtractor.java
+D:\sourceCode\seata-io-seata-develop\springcloudalibaba\spring-cloud-stream-producer-partition\src\main\java\com\hikvision\dto\User.java
+D:\sourceCode\seata-io-seata-develop\springcloudalibaba\spring-cloud-stream-producer-partition\src\main\java\com\hikvision\SCSProducerPartitionApplication.java

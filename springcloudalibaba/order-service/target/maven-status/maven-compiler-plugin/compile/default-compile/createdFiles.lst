@@ -1,0 +1,5 @@
+com\hikvision\OrderApplication.class
+com\hikvision\OrderApplication$DeliveryService.class
+com\hikvision\OrderApplication$FallbackInventoryService.class
+com\hikvision\OrderApplication$OrderController.class
+com\hikvision\OrderApplication$FallbackFactory.class

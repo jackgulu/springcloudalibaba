@@ -1,0 +1,4 @@
+com\hikvision\SCBNode2$BusController.class
+com\hikvision\SCBNode2.class
+com\hikvision\SCBNode2$EventReceiver.class
+com\hikvision\EnvironmentChangeListener.class

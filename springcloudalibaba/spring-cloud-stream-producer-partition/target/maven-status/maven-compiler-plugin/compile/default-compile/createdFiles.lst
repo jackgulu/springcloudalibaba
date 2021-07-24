@@ -1,0 +1,4 @@
+com\hikvision\strategy\MyPartitionKeyExtractor.class
+com\hikvision\SCSProducerPartitionApplication.class
+com\hikvision\dto\User.class
+com\hikvision\selector\MyPartitionSelector.class

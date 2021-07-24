@@ -1,0 +1,8 @@
+com\hikvision\com\hikvision\feignapi\EchoService.class
+com\hikvision\context\RibbonRequestContext.class
+com\hikvision\NacosConsumerApplication.class
+com\hikvision\rule\GrayRule.class
+com\hikvision\inteceptor\GrayRequestInterceptor.class
+com\hikvision\context\RibbonRequestContextHolder.class
+com\hikvision\inteceptor\GrayInterceptor.class
+com\hikvision\context\RibbonRequestContextHolder$1.class

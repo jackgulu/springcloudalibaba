@@ -1,0 +1,3 @@
+com\hikvision\DubboApplication$TestApplication.class
+com\hikvision\api\DubboFeignRestService.class
+com\hikvision\DubboApplication.class

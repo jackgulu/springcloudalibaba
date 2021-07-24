@@ -1,0 +1,5 @@
+com\hikvision\BookProperties.class
+com\hikvision\EventReceiver.class
+com\hikvision\NacosProviderApplication.class
+com\hikvision\ReactiveController.class
+com\hikvision\NacosProviderApplication$ConfigurationController.class

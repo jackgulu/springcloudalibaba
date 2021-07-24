@@ -1,0 +1,4 @@
+com\hikvision\configuration\RandomLoadBalancer.class
+com\hikvision\configuration\MyLoadBalancerConfiguration.class
+com\hikvision\RandomServiceInstanceChooser.class
+com\hikvision\NacosConsumerApplication.class

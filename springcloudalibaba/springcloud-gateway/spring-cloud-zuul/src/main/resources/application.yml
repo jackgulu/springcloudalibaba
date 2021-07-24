@@ -1,0 +1,18 @@
+server:
+  port: 8089
+spring:
+  application:
+    name: zuul-proxy
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+zuul:
+  routes:
+    service1:
+       path: /nacos/**
+       service-id: nacos-provider
+    service2:
+      path: /http/**
+      service-id: http://httpbin.org/
+

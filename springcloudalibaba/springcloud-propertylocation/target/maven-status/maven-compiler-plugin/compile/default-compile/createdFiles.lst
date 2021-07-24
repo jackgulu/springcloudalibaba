@@ -1,0 +1,12 @@
+com\hikvision\expand\MyEnvironmentPostProcessor.class
+com\hikvision\factory\YamlPropertySourceFactory.class
+com\hikvision\property\MyPropertySource.class
+com\hikvision\controller\HelloController.class
+com\hikvision\ApplicationLocation.class
+com\hikvision\Main.class
+com\hikvision\expand\JsonPropertySourceLocator.class
+com\hikvision\student\StudentConfig.class
+com\hikvision\configuration\FactoryConfiguration.class
+com\hikvision\student\Student.class
+com\hikvision\teacher\TeacherConfig.class
+com\hikvision\teacher\Teacher.class

@@ -1,0 +1,6 @@
+com\hikvision\test\TestMain.class
+com\hikvision\dto\CircuitBreaker.class
+com\hikvision\config\CircuitConfig.class
+com\hikvision\constant\State.class
+com\hikvision\exception\DegradeException.class
+com\hikvision\dto\Counter.class

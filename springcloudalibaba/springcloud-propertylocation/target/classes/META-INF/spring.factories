@@ -1,0 +1,2 @@
+org.springframework.cloud.bootstrap.BootstrapConfiguration=com.hikvision.expand.JsonPropertySourceLocator
+org.springframework.boot.env.EnvironmentPostProcessor=com.hikvision.expand.MyEnvironmentPostProcessor

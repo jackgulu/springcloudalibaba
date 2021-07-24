@@ -1,0 +1,7 @@
+D:\sourceCode\seata-io-seata-develop\springcloudalibaba\springcloud-singleregistry-consumer2\src\main\java\com\hikvision\context\RibbonRequestContextHolder.java
+D:\sourceCode\seata-io-seata-develop\springcloudalibaba\springcloud-singleregistry-consumer2\src\main\java\com\hikvision\rule\GrayRule.java
+D:\sourceCode\seata-io-seata-develop\springcloudalibaba\springcloud-singleregistry-consumer2\src\main\java\com\hikvision\com\hikvision\feignapi\EchoService.java
+D:\sourceCode\seata-io-seata-develop\springcloudalibaba\springcloud-singleregistry-consumer2\src\main\java\com\hikvision\inteceptor\GrayInterceptor.java
+D:\sourceCode\seata-io-seata-develop\springcloudalibaba\springcloud-singleregistry-consumer2\src\main\java\com\hikvision\inteceptor\GrayRequestInterceptor.java
+D:\sourceCode\seata-io-seata-develop\springcloudalibaba\springcloud-singleregistry-consumer2\src\main\java\com\hikvision\NacosConsumerApplication.java
+D:\sourceCode\seata-io-seata-develop\springcloudalibaba\springcloud-singleregistry-consumer2\src\main\java\com\hikvision\context\RibbonRequestContext.java

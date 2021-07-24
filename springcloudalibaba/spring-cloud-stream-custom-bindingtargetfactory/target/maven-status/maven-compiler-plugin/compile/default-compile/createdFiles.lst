@@ -1,0 +1,4 @@
+com\hikvision\SCSCustomBindingTargetFactoryApplication$MySinkService.class
+com\hikvision\SCSCustomBindingTargetFactoryApplication$PublishSubscribeChannelBindingTargetFactory.class
+com\hikvision\SCSCustomBindingTargetFactoryApplication$MySink.class
+com\hikvision\SCSCustomBindingTargetFactoryApplication.class

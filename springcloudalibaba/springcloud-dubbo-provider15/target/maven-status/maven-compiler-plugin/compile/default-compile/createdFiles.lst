@@ -1,0 +1,5 @@
+com\hikvision\api\UserServiceImpl.class
+com\hikvision\api\DubboScanApplication.class
+com\hikvision\api\Order.class
+com\hikvision\api\OrderServiceImpl.class
+com\hikvision\api\OrderService.class

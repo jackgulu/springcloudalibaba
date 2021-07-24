@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alibaba-sentinel-spring-cloud-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alibaba-sentinel-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/circuit-person-design" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.hikvision.webflux" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/delivery-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elasticsearch.test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-service-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/long-polling" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netflix-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sms-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-bus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-bus/bus-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-bus/spring-cloud-bus-node1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-bus/spring-cloud-bus-node2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-bus/spring-cloud-bus-node3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-data-flow" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-data-flow/creditcard-fraud-detection-sink" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-data-flow/scdf-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-data-flow/stream-processing.creditcard-source" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-function" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-function/spring.cloud.function" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-stream" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-stream-consumer-error" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-stream-custom-bindingtargetfactory" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-stream-metrics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-stream-polling-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-stream-producer-error" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-stream-producer-partition" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-integration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring.cloud.netflix-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-circuitbreaker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-dubbo-consumer14" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-dubbo-consumer3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-dubbo-provider14" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-dubbo-provider15" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-eureka-nacos-double-subscribe-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-gateway/spring-cloud-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-gateway/spring-cloud-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-nacos-eureka-doubleregistry-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-nacos-singleregistry-provider11" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-nacos-singleregistry-provider12" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-nacos-singleregistry-provider13" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-nacos-singlesubscribe-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-propertylocation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-singleregistry-consumer2" charset="UTF-8" />
+  </component>
+</project>
